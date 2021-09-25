@@ -46,7 +46,7 @@ Run:
 npx hardhat
 ```
 
-Choose the option to create a sample project. Say yes to everything.
+Choose the option to create a basic sample project. Say yes to everything.
 
 The sample project will ask you to install hardhat-waffle and hardhat-ethers. These are other goodies we'll use later :).
 
